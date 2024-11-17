@@ -24,6 +24,9 @@
       <li>Favourite gamemodes with an array of mutators and variables</li>
       <li>Builtin editor lets you create your own maps cooperatively online</li>
     </ul>
+    <p>
+      This Flatpak provides a legacy version of Red Eclipse based on the 1.6 release.
+    </p>
   </description>
   <url type="homepage">https://redeclipse.net/</url>
   <screenshots>
